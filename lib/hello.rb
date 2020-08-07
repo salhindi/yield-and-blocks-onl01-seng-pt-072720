@@ -1,5 +1,6 @@
 def hello_t(name)
-  puts 
+  
+  puts name
 
 end
 

@@ -1,5 +1,5 @@
 def hello_t(names)
-  ["Tim", "Tom" "Jim"].each do |name|
+  .each do |name|
   puts name
 end
 

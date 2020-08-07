@@ -1,5 +1,6 @@
 def hello_t(names)
-  .each do |name|
+  ["Tim", "Tom", "Jim".each do |name|
+  yeild
   puts name
 end
 
